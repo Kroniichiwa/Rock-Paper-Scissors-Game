@@ -12,7 +12,7 @@ def main() :
 
     try:
         playerInput = playerInput.upper()
-        print("Your bot choosed : " + botChoice)
+        #print("Bot choosed : " + botChoice)
         #check rock
         if playerInput == "R" :
             if botChoice == "S" :
