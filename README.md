@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors Game
-
+![RPS](https://cdn.discordapp.com/attachments/981070079624097882/1084030283197722664/Screenshot_2566-03-11_at_19.29.11.png)
 
 
  ## How to run
